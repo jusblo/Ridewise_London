@@ -309,3 +309,9 @@ For questions about data definitions, quality issues, or access requests:
 **Document Version History:**
 
 - v1.0 (Feb 2026): Initial data dictionary creation
+# 🚀 FastAPI Churn Prediction Service
+
+## Run the API
+
+```bash
+uvicorn src.api.main:app --reload
