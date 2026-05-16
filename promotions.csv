@@ -1,0 +1,21 @@
+promo_id,promo_name,promo_type,promo_value,start_date,end_date,target_segment,city_scope,ab_test_groups,test_allocation,success_metric
+P000,Peak Hour Pass,surge_waiver,1.0,2025-04-26,2025-05-25,All,Nairobi,['All'],[1.0],Usage Frequency
+P001,Peak Hour Pass,surge_waiver,1.0,2025-04-26,2025-05-22,All,Cairo,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",Conversion Rate
+P002,Peak Hour Pass,surge_waiver,1.0,2025-04-26,2025-05-16,All,Cairo,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",ROI
+P003,Loyalty Bonus,points,100.0,2025-04-26,2025-05-04,Gold+,Nairobi,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",Conversion Rate
+P004,Loyalty Bonus,points,100.0,2025-04-26,2025-05-15,Gold+,Nairobi,['All'],[1.0],Usage Frequency
+P005,Loyalty Bonus,points,100.0,2025-04-26,2025-05-16,Gold+,Nairobi,['All'],[1.0],Usage Frequency
+P006,First Ride Discount,discount,0.3,2025-04-26,2025-05-06,New,Lagos,['All'],[1.0],Usage Frequency
+P007,First Ride Discount,discount,0.3,2025-04-26,2025-05-26,New,Nairobi,['All'],[1.0],ROI
+P008,Referral Special,credit,15.0,2025-04-26,2025-05-03,Active,All-Cities,['All'],[1.0],Usage Frequency
+P009,Referral Special,credit,15.0,2025-04-26,2025-05-18,Active,Cairo,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",ROI
+P010,First Ride Discount,discount,0.3,2025-04-26,2025-05-05,New,All-Cities,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",Conversion Rate
+P011,Peak Hour Pass,surge_waiver,1.0,2025-04-26,2025-05-24,All,Nairobi,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",ROI
+P012,Loyalty Bonus,points,100.0,2025-04-26,2025-05-09,Gold+,All-Cities,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",ROI
+P013,First Ride Discount,discount,0.3,2025-04-26,2025-05-09,New,All-Cities,['All'],[1.0],ROI
+P014,First Ride Discount,discount,0.3,2025-04-26,2025-05-19,New,Lagos,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",ROI
+P015,Peak Hour Pass,surge_waiver,1.0,2025-04-26,2025-05-17,All,All-Cities,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",ROI
+P016,Loyalty Bonus,points,100.0,2025-04-26,2025-05-06,Gold+,Lagos,['All'],[1.0],Usage Frequency
+P017,First Ride Discount,discount,0.3,2025-04-26,2025-05-06,New,Lagos,['All'],[1.0],ROI
+P018,First Ride Discount,discount,0.3,2025-04-26,2025-05-13,New,Cairo,"['Control', 'Variant A', 'Variant B']","[0.3, 0.4, 0.3]",ROI
+P019,First Ride Discount,discount,0.3,2025-04-26,2025-05-08,New,Lagos,['All'],[1.0],Conversion Rate
