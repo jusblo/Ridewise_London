@@ -82,3 +82,4 @@ htmlcov/
 !reports/figures/.gitkeep
 !reports/metrics/.gitkeep
 venv/
+*.csv
